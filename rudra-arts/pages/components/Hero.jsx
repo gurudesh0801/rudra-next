@@ -15,7 +15,7 @@ export default function Hero() {
         className="absolute top-0 left-0 w-full h-full object-cover z-0"
         style={{ filter: "brightness(.3)" }}
       >
-        <source src="/videos/hero-bg.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dxpf6dhn1/video/upload/v1748577812/Rudra-artss/lnxvtephbrs4c7jcfrtl.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
